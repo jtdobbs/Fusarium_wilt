@@ -1,1 +1,2 @@
 Pathogen and non-pathogen comparison
+Whole genome comparisons
